@@ -1,0 +1,87 @@
+# Andhra Pradesh Textbook Download Links (2024-2025)
+
+This file contains the list of all textbook download links scraped from https://cse.ap.gov.in/textBooksDownloadingPageTEBilingual.
+
+| CLASS | SUBJECT | BOOK NAME | DOWNLOAD URL |
+| :--- | :--- | :--- | :--- |
+| 10 | Biology_Textbook_BM | 10_Biology_Textbook_BM_2024-25 | [Download](https://cse.ap.gov.in/downloadBooks/Biology%20Books/10_Biology_Textbook_BM_2024-25.pdf/10) |
+| 10 | English_Nontail_book | 10_English_Nontail_book 2024-25 | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/10_English_Nontail_book%202024-25.pdf/10) |
+| 10 | English_Textbook | 10_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/10_English_Textbook_2024-25.pdf/10) |
+| 10 | English_Workbook | 10_English_Workbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/10_English_Worktbook_2024-25.pdf/10) |
+| 10 | Hindi_textbook | 10_Hindi_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Hindi%20Books/10_Hindi_textbook_2024-25.pdf/10) |
+| 10 | Maths_SEM-1_textbook | 10_Maths_SEM-1_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/10_Maths_SEM-1_textbook_2024-25.pdf/10) |
+| 10 | Maths_SEM-2_textbook | 10_Maths_SEM-2_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/10_Maths_SEM-2_textbook_2024-25.pdf/10) |
+| 10 | Physics_textbook | 10_Physics_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Physics%20Books/10_Physics_textbook_2024-25.pdf/10) |
+| 10 | Social_Economics_textbook | 10_Social_Economics_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Social_Economics_textbook_2024-25.pdf/10) |
+| 10 | Social_Geography_textbook | 10_Social_Geography_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Social_Geography_textbook_2024-25.pdf/10) |
+| 10 | Social_History_textbook | 10_Social_History_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Social_History_textbook_2024-25.pdf/10) |
+| 10 | Social_Politics_textbook | 10_Social_Politics_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Social_Politics_textbook_2024-25.pdf/10) |
+| 10 | Telugu_textbook | 10_Telugu_textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/10_telugu_textbook_2024-25.pdf/10) |
+| 10 | Biology_Textbook_UM | 10_Biology_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Biology%20Books/10_Biology_Textbook_UM.pdf/10) |
+| 10 | Economics_Textbook_UM | 10_Economics_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Economics_Textbook_UM.pdf/10) |
+| 10 | Geography_Textbook_UM | 10_Geography_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Geography_Textbook_UM.pdf/10) |
+| 10 | Maths_SEM_1_Textbook_UM | 10_Maths_SEM_1_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/10_Maths_SEM_1_Textbook_UM.pdf/10) |
+| 10 | Maths_SEM_2_Textbook_UM | 10_Maths_SEM_2_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/10_Maths_SEM_2_Textbook_UM.pdf/10) |
+| 10 | Physics_Textbook_UM | 10_Physics_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Physics%20Books/10_Physics_Textbook_UM.pdf/10) |
+| 10 | Political Science_Textbook_UM | 10_Political Science_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Political%20Science_Textbook_UM.pdf/10) |
+| 10 | Social_History_Textbook_UM | 10_Social_History_Textbook_UM | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/10_Social_History_Textbook_UM.pdf/10) |
+| 9 | Biology_Textbook | 9_Biology_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Biology%20Books/9_Biology_Textbook.pdf/9) |
+| 9 | 9_English_Nonditail | 9_English_Nonditail | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/9_English_Nonditail.pdf/9) |
+| 9 | English_Textbook | 9_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/9_English_Textbook.pdf/9) |
+| 9 | Hindi_Textbook | 9_Hindi_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Hindi%20Books/9_Hindi_Textbook.pdf/9) |
+| 9 | Maths_SEM-1_Textbook | 9_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/9_Maths_SEM-1_Textbook.pdf/9) |
+| 9 | Maths_SEM-2_Textbook | 9_Maths_SEM-2_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/9_Maths_SEM-2_Textbook.pdf/9) |
+| 9 | Physics_SEM-1_Textbook | 9_Physics_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Physics%20Books/9_Physics_SEM-1_Textbook.pdf/9) |
+| 9 | Physics_SEM-2_Textbook | 9_Physics_SEM-2_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Physics%20Books/9_Physics_SEM-2_Textbook.pdf/9) |
+| 9 | Social_Economics_Textbook | 9_Social_Economics_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/9_Social_Economics_Textbook.pdf/9) |
+| 9 | Social_Geography_Textbook | 9_Social_Geography_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/9_Social_Geography_Textbook.pdf/9) |
+| 9 | Social_History_Textbooks | 9_Social_History_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/9_Social_History_Textbook.pdf/9) |
+| 9 | Social_Politics_Textbook | 9_Social_Politics_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/9_Social_Politics_Textbook.pdf/9) |
+| 9 | Telugu_Nonditail | 9_Telugu_Nonditail | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/9_Telugu_Nonditail.pdf/9) |
+| 9 | Telugu_Textbook | 9_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/9_Telugu_Textbook.pdf/9) |
+| 9 | Telugu_Textbook | 9_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/9th_Telugu%20language_Textbook_SL.pdf/9) |
+| 8 | Biology_SEM-1_Textbook | 8_Biology_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Biology%20Books/8_Biology_SEM-1_Textbook.pdf/8) |
+| 8 | Biology_SEM-2_Textbook | 8_Biology_SEM-2_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Biology%20Books/8_Biology_SEM-2_Textbook.pdf/8) |
+| 8 | English_Nonditail | 8_English_Nonditail | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/8_English_Nonditail.pdf/8) |
+| 8 | English_Textbook | 8_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/8_English_Textbook.pdf/8) |
+| 8 | Hindi_Textbook | 8_Hindi_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Hindi%20Books/8_Hindi_Textbook.pdf/8) |
+| 8 | Maths_SEM-1_Textbook | 8_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/8_Maths_SEM-1_Textbook.pdf/8) |
+| 8 | Physics_SEM-1_Textbook | 8_Physics_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Physics%20Books/8_Physics_SEM-1_Textbook.pdf/8) |
+| 8 | Physics_SEM-2_Textbook | 8_Physics_SEM-2_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Physics%20Books/8_Physics_SEM-2_Textbook.pdf/8) |
+| 8 | Social_Geography_Textbook | 8_Social_Geography_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/8_Social_Geography_Textbook.pdf/8) |
+| 8 | Social_History_Textbook | 8_Social_History_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/8_Social_History_Textbook.pdf/8) |
+| 8 | Social_Politics_Textbook | 8_Social_Politics_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/8_Social_Politics_Textbook.pdf/8) |
+| 8 | Telugu_Textbook | 8_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/8_Telugu_Textbook.pdf/8) |
+| 8 | Telugu_Textbook | 8_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/8th_Telugu%20language_Textbook_SL.pdf/8) |
+| 7 | English_Textbook | 7_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/7_English_Textbook.pdf/7) |
+| 7 | Hindi_Textbook | 7_Hindi_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Hindi%20Books/7_Hindi_Textbook.pdf/7) |
+| 7 | Maths_SEM-1_Textbook | 7_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/7_Maths_SEM-1_Textbook.pdf/7) |
+| 7 | Science_SEM-1_Textbook | 7_Science_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Science%20Books/7_Science_SEM-1_Textbook.pdf/7) |
+| 7 | Soical_SEM-1_Textbook | 7_Soical_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Soical%20Books/7_Soical_SEM-1_Textbook.pdf/7) |
+| 7 | Telugu_Textbook | 7_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/7_Telugu_Textbook.pdf/7) |
+| 7 | Telugu_Textbook | 7_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/7_Telugu_language_Textbook_SL.pdf/7) |
+| 6 | English_Textbook | 6_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/6_English_Textbook.pdf/6) |
+| 6 | Hindi_Textbook | 6_Hindi_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Hindi%20Books/6_Hindi_Textbook.pdf/6) |
+| 6 | Maths_SEM-1_Textbook | 6_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/6_Maths_SEM-1_Textbook.pdf/6) |
+| 6 | Science_SEM-1_Textbook | 6_Science_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Science%20Books/6_Science_SEM-1_Textbook.pdf/6) |
+| 6 | Soical_SEM-1_Textbook | 6_Soical_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Social%20Books/6_Soical_SEM-1_Textbook.pdf/6) |
+| 6 | Telugu_Textbook | 6_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/6_Telugu_Textbook.pdf/6) |
+| 6 | Telugu_Textbook | 6_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/6_Telugu_language_Textbook_SL.pdf/6) |
+| 5 | English_Textbook | 5_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/5_English_Textbook.pdf/5) |
+| 5 | EVS_SEM-1_Textbook | 5_EVS_SEM-1_TB | [Download](https://cse.ap.gov.in/downloadBooks/EVS%20Books/5_EVS_SEM-1_TB.pdf/5) |
+| 5 | Maths_SEM-1_Textbook | 5_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/5_Maths_SEM-1_Textbook.pdf/5) |
+| 5 | Telugu_Textbook | 5_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/5_Telugu_Textbook.pdf/5) |
+| 4 | English_Textbook | 4_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/4_English_Textbook.pdf/4) |
+| 4 | EVS_SEM-1_Textbook | 4_EVS_SEM-1_TB | [Download](https://cse.ap.gov.in/downloadBooks/EVS%20Books/4_EVS_SEM-1_TB.pdf/4) |
+| 4 | Maths_SEM-1_Textbook | 4_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/4_Maths_SEM-1_Textbook.pdf/4) |
+| 4 | Telugu_Textbook | 4_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/4_Telugu_Textbook.pdf/4) |
+| 3 | English_Textbook | 3_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/3_English_Textbook.pdf/3) |
+| 3 | Telugu_Textbook | 3_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/3_Telugu_Textbook.pdf/3) |
+| 2 | English_Textbook | 2_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/2_English_Textbook.pdf/2) |
+| 2 | Maths_SEM-1_Textbook | 2_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/2_Maths_SEM-1_Textbook.pdf/2) |
+| 2 | Maths_SEM-2_Textbook | 2_Maths_SEM-2_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/2_Maths_SEM-2_Textbook.pdf/2) |
+| 2 | Telugu_Textbook | 2_Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/2_Telugu_Textbook.pdf/2) |
+| 1 | English_Textbook | 1_English_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/English%20Books/1_English_Textbook.pdf/1) |
+| 1 | Maths_SEM-1_Textbook | 1_Maths_SEM-1_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/1_Maths_SEM-1_Textbook.pdf/1) |
+| 1 | Maths_SEM-2_Textbook | 1_Maths_SEM-2_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Maths%20Books/1_Maths_SEM-2_Textbook.pdf/1) |
+| 1 | Telugu_Textbook | Telugu_Textbook | [Download](https://cse.ap.gov.in/downloadBooks/Telugu%20Books/1_Telugu_Textbook.pdf/1) |

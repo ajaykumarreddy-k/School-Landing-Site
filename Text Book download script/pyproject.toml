@@ -1,0 +1,16 @@
+[project]
+name = "textbook-downloader"
+version = "0.1.0"
+description = "A script to download textbooks from AP School Education website"
+authors = [
+    { name = "Ajay Kumar Reddy", email = "ajay@example.com" }
+]
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+]
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
