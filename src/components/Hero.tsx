@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { ArrowRight } from 'lucide-react';
+import campusImg from '../../assets/School Campus.jpeg';
 
 export default function Hero() {
   return (
@@ -73,14 +74,14 @@ export default function Hero() {
         className="relative w-full mt-20 h-[400px] sm:h-[500px] lg:h-[600px] rounded-[2rem] overflow-hidden shadow-2xl"
       >
         <img 
-          src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=2070&auto=format&fit=crop" 
+          src={campusImg} 
           alt="School Campus" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-ink/40 to-transparent" />
         
         {/* Floating Card */}
-        <div className="absolute bottom-6 left-6 sm:bottom-12 sm:left-12 bg-white/95 backdrop-blur-md p-6 rounded-2xl shadow-xl max-w-sm hidden md:block">
+        <div className="absolute bottom-6 right-6 sm:bottom-12 sm:right-12 bg-white/95 backdrop-blur-md p-6 rounded-2xl shadow-xl max-w-sm hidden md:block">
           <p className="font-display font-bold text-2xl text-ink">"Empowering minds to redefine the future."</p>
           <p className="font-medium text-pine mt-2">— Head master</p>
         </div>

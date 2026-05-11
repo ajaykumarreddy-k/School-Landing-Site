@@ -1,10 +1,11 @@
+import img1 from '../../assets/Gallary/WhatsApp Image 2026-05-07 at 20.19.54.jpeg';
+import img2 from '../../assets/Gallary/WhatsApp Image 2026-05-07 at 20.20.31.jpeg';
+import img3 from '../../assets/Gallary/WhatsApp Image 2026-05-07 at 20.21.37.jpeg';
+import img4 from '../../assets/Gallary/WhatsApp Image 2026-05-07 at 20.22.22.jpeg';
+import img5 from '../../assets/Gallary/WhatsApp Image 2026-05-07 at 20.23.06.jpeg';
+
 export default function Gallery() {
-  const images = [
-    "https://images.unsplash.com/photo-1511629091441-ee46146481b6?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1577896851231-70ef18881754?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1427504494785-319ce8372ac0?q=80&w=800&auto=format&fit=crop"
-  ];
+  const images = [img1, img2, img3, img4, img5];
 
   return (
     <section id="gallery" className="py-24 bg-stone/30">
@@ -20,6 +21,9 @@ export default function Gallery() {
             </div>
             <div className="h-[250px] lg:h-[300px] overflow-hidden rounded-[2rem]">
               <img src={images[1]} alt="Gallery" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"/>
+            </div>
+            <div className="h-[250px] lg:h-[300px] overflow-hidden rounded-[2rem]">
+              <img src={images[4]} alt="Gallery" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"/>
             </div>
           </div>
           <div className="space-y-4 lg:space-y-6 pt-0 md:pt-12">

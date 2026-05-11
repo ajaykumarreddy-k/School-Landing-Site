@@ -124,7 +124,7 @@ export default function NewsContact() {
                   </div>
                   <div>
                     <h4 className="font-display font-bold text-xl mb-1">Email</h4>
-                    <p className="text-gray-400">admissions@rayalaseemahighschool.edu</p>
+                    <p className="text-gray-400">admissions.rayalaseemaschool@gmail.com</p>
                   </div>
                 </div>
               </div>

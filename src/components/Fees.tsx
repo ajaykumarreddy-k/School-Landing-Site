@@ -1,15 +1,17 @@
 export default function Fees() {
   const feesData = [
-    { grade: 'Class 1', fee: '₹25,000', term: 'per annum' },
-    { grade: 'Class 2', fee: '₹25,000', term: 'per annum' },
-    { grade: 'Class 3', fee: '₹25,000', term: 'per annum' },
-    { grade: 'Class 4', fee: '₹25,000', term: 'per annum' },
-    { grade: 'Class 5', fee: '₹25,000', term: 'per annum' },
-    { grade: 'Class 6', fee: '₹30,000', term: 'per annum' },
-    { grade: 'Class 7', fee: '₹30,000', term: 'per annum' },
-    { grade: 'Class 8', fee: '₹30,000', term: 'per annum' },
-    { grade: 'Class 9', fee: '₹35,000', term: 'per annum' },
-    { grade: 'Class 10', fee: '₹35,000', term: 'per annum' },
+    { grade: 'L.K.G', fee: '₹8,000', term: 'per annum' },
+    { grade: 'U.K.G', fee: '₹8,500', term: 'per annum' },
+    { grade: '1st Class', fee: '₹9,000', term: 'per annum' },
+    { grade: '2nd Class', fee: '₹9,500', term: 'per annum' },
+    { grade: '3rd Class', fee: '₹10,000', term: 'per annum' },
+    { grade: '4th Class', fee: '₹10,500', term: 'per annum' },
+    { grade: '5th Class', fee: '₹11,000', term: 'per annum' },
+    { grade: '6th Class', fee: '₹12,000', term: 'per annum' },
+    { grade: '7th Class', fee: '₹12,500', term: 'per annum' },
+    { grade: '8th Class', fee: '₹13,000', term: 'per annum' },
+    { grade: '9th Class', fee: '₹14,000', term: 'per annum' },
+    { grade: '10th Class', fee: '₹20,000', term: 'per annum' },
   ];
 
   return (
@@ -31,7 +33,7 @@ export default function Fees() {
               >
                 <div className="flex items-center gap-4">
                   <div className="w-10 h-10 rounded-full bg-stone flex items-center justify-center font-display font-bold text-pine">
-                    {row.grade.replace('Class ', '')}
+                    {row.grade.match(/\d+/) ? row.grade.match(/\d+/)![0] : row.grade.replace(/\./g, '')}
                   </div>
                   <span className="font-semibold text-lg text-ink">{row.grade}</span>
                 </div>

@@ -1,4 +1,5 @@
 import { ArrowRight } from 'lucide-react';
+import studentsImg from '../../assets/Gallary/WhatsApp Image 2026-05-07 at 20.22.22.jpeg';
 
 export default function About() {
   return (
@@ -21,13 +22,6 @@ export default function About() {
           </div>
 
           <div className="mt-10 flex items-center space-x-6">
-            <div className="w-16 h-16 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
-              <img 
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=200&auto=format&fit=crop" 
-                alt="Principal"
-                className="w-full h-full object-cover"
-              />
-            </div>
             <div>
               <p className="font-display font-bold text-xl text-ink">Head master</p>
             </div>
@@ -38,7 +32,7 @@ export default function About() {
         <div className="relative">
           <div className="w-full h-[500px] rounded-[2rem] overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200&auto=format&fit=crop" 
+              src={studentsImg} 
               alt="Students learning" 
               className="w-full h-full object-cover"
             />
