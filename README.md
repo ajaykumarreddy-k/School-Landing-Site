@@ -2,7 +2,7 @@
 
 A premium, modern educational landing page designed to showcase excellence in education, discipline, and values. This platform serves as a digital hub for parents, students, and staff of Rayalaseema High School.
 
-![School Banner](https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=2070&auto=format&fit=crop)
+![School Banner](assets/School%20Campus.jpeg)
 
 ## 🌟 Key Features
 
